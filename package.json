@@ -1,0 +1,19 @@
+{
+  "name": "elife-bot",
+  "version": "1.0.0",
+  "description": "Messenger bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MagdielCAS/elife-bot.git"
+  },
+  "author": "Magdiel Campelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MagdielCAS/elife-bot/issues"
+  },
+  "homepage": "https://github.com/MagdielCAS/elife-bot#readme"
+}
